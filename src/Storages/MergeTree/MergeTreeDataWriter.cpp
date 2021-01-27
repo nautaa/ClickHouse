@@ -23,7 +23,7 @@
 #include <Processors/Merges/Algorithms/AggregatingSortedAlgorithm.h>
 #include <Processors/Merges/Algorithms/VersionedCollapsingAlgorithm.h>
 #include <Processors/Merges/Algorithms/GraphiteRollupSortedAlgorithm.h>
-
+/// nauta
 namespace ProfileEvents
 {
     extern const Event MergeTreeDataWriterBlocks;
